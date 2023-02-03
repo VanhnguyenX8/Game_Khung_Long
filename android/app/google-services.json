@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370458794623",
+    "project_id": "flutter-khung-long",
+    "storage_bucket": "flutter-khung-long.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370458794623:android:421d6aa1542af387d07d4a",
+        "android_client_info": {
+          "package_name": "com.example.khung_long"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370458794623-2j9nh2vi69ptluedblv2aodui2c59750.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khung_long",
+            "certificate_hash": "dccc83960c07990131933e39c67306620dc6ca1e"
+          }
+        },
+        {
+          "client_id": "370458794623-l1j7p0omvsbonffdjfh1j0uto4lbiu3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAq9-PIBQg4m4JORSVSyQodbzsZx7oxyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370458794623-h5hfoqis600871uimci2kdft0trt9mtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
